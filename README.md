@@ -8,8 +8,7 @@ The repository has code and packages related to the RoadAI Challenge July-Sept 2
 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7116729457398136832/)
 
 
-The tripmate package created during the hackathon has been uploaded here. Other details and code will be shared soon! 
-
+The tripmate package created during the hackathon has been uploaded here.
 
 
 
